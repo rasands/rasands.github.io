@@ -1,0 +1,3 @@
+.highslide img {
+ cursor: url(./command/graphics/zoomin.cur), pointer !important;
+}
